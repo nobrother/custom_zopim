@@ -1,5 +1,5 @@
 <div class="footer-fixed">
-    <a href="#">
-        <!--<img src="{""|fn_url}"> -->
+    <a class="zopim-button">
+        <img src="{$images_dir}/addons/custom_zopim/zopim_button.jpg">
     </a>
 </div>
